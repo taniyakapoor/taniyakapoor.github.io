@@ -12,6 +12,6 @@ author_profile: true
 
 ## Fellowship, Scholarship & Grant
 
-- 2023: Travel Grant for attending CWI autumn School,
-- 2022: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France (2021).
-- 2021: SAARC Nation scholarship for pursuing masters (Fully-funded), India (2017-2019)
+- 2023: Travel Grant for attending CWI autumn School, Amsterdam.
+- 2021: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France.
+- 2017-2019: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
