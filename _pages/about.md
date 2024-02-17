@@ -12,5 +12,5 @@ Currently, I am a PhD researcher in the Faculty of Civil Engineering and Geoscie
 
 Prior to this, she worked as an intern in CAMLab, seminar for applied mathematics at ETH Zurich, on the project: physics-informed neural networks for fully non-linear PDEs. She received her master’s degree in applied mathematics and scientific computing from South Asian university, India and University de Lille, France.
 
-Here is a recent copy of my  [CV](https://taniyakapoor.github.io/files/Taniya_CV.pdf)..
+Here is a recent copy of my  [CV](https://taniyakapoor.github.io/files/Taniya_CV.pdf).
 
