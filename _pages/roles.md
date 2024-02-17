@@ -11,3 +11,9 @@ author_profile: true
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 
+- Conference Reviewer:
+
+- [ICLR 2024 AI4DiffEqtnsInSci Workshop](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
+- [NeurIPS DLDE 2023 Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE#tab-your-consoles)
+- [IJCNN](https://2023.ijcnn.org)
+- [Eurodyn](https://eurodyn2023.dryfta.com)
