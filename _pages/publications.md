@@ -16,8 +16,9 @@ author_profile: true
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting traction return current in electric railway systems through physics-informed neural networks. *IEEE Symposium Series on Computational Intelligence (SSCI)* (2022).  
 - <sup>\*</sup>Contributed equally
 
-  ## Posters
-1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. [Gradient weighted physics-informed neural networks for capturing shocks in porous media flows]*Conference: NeurIPS Workshop: Machine learning and the Physical Sciences*(2023).
-1. **Taniya Kapoor**, Roberto Molinaro, Siddhartha Mishra. [Physics Informed Neural Networks for Approximating Fully Nonlinear PDEs]*London Mathematical Society Workshop on the Mathematics of Deep Learning*(2022).
+ ## Posters
+1. Taniya Kapoor, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
+1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. Gradient weighted physics-informed neural networks for capturing shocks in porous media flows *NeurIPS Workshop: Machine learning and the Physical Sciences*(2023).
+1. **Taniya Kapoor**, Roberto Molinaro, Siddhartha Mishra. Physics Informed Neural Networks for Approximating Fully Nonlinear PDEs*London Mathematical Society Workshop on the Mathematics of Deep Learning*(2022).
    
 
