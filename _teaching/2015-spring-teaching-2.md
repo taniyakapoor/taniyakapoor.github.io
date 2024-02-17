@@ -1,14 +1,13 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Material"
+venue: "TU Delft, Engineering Structures"
+date: 2023
+location: "Delft, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Prepared tutorial and exam based on machine learning for the following masters course: A1, MUDE, Dynamica
 
 Heading 1
 ======
