@@ -13,7 +13,11 @@ author_profile: true
 
 1. **Taniya Kapoor<sup>\*</sup>**, Abhishek Chandra<sup>\*</sup>, Daniel M Tartakovsky, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. Neural oscillators for generalization of physics-informed machine learning. *Proceedings of the 38th AAAI Conference on Artificial Intelligence* (2024).
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Physics-informed machine learning for moving load problems. *Eurodyn XII International Conference on Structural Dynamics* (2023).
-1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting traction return current in electric railway systems through physics-informed neural networks. *IEEE Symposium Series on Computational Intelligence (SSCI)* (2022).  
+1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting traction return current in electric railway systems through physics-informed neural networks. *IEEE Symposium Series on Computational Intelligence (SSCI)* (2022).
+   
+## Workshop Papers
+1. Taniya Kapoor, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
+1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. Gradient weighted physics-informed neural networks for capturing shocks in porous media flows *NeurIPS Workshop: Machine learning and the Physical Sciences*(2023). 
 
 ## Posters
 1. Taniya Kapoor, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
