@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Taniya Kapoor"
-description              : &description "personal description"
+description              : &description "PhD Researcher"
 url                      : https://taniya-kapoor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taniya-kapoor/taniya-kapoor.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Taniya"
   avatar           : "profile.png"
-  bio              : "Master student-scientific computing"
-  location         : "Lille, France"
+  bio              : "PhD Researcher"
+  location         : "Delft, The Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kapoortaniya702@gmail.com"
+  email            : "t.kapoor@tudelft.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
