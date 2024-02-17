@@ -1,20 +1,10 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Masters course: Data Science and AI for Engineers"
+venue: "TU Delft, The Netherlands"
+date: Dec-Feb
+location: "Delft, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Formulate a proposal for a master's course focusing on the integration of physics-informed machine learning within the context of beam dynamics. This includes providing three months of supervisory support to a group of 9 students dedicated to this project.
