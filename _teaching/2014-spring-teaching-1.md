@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Masters course: Data Science and AI for Engineers"
 venue: "TU Delft, The Netherlands"
-date: Dec 2023 - Feb2024
+date: Dec 2023 - Feb 2024
 location: "Delft, The Netherlands"
 ---
 
