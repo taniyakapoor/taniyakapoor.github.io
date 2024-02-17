@@ -12,4 +12,6 @@ author_profile: true
 ## Conference Papers
 
 1. **Taniya Kapoor<sup>\*</sup>**, Abhishek Chandra<sup>\*</sup>, Daniel M Tartakovsky, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. Neural oscillators for generalization of physics-informed machine learning. *Proceedings of the 38th AAAI Conference on Artificial Intelligence* (2024).
+1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Physics-informed machine learning for moving load problems. *Eurodyn XII International Conference on Structural Dynamics* (2023).
+1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting traction return current in electric railway systems through physics-informed neural networks. *IEEE Symposium Series on Computational Intelligence (SSCI)* (2022).  
 - <sup>\*</sup>Contributed equally
