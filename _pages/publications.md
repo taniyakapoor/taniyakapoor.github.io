@@ -15,3 +15,9 @@ author_profile: true
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Physics-informed machine learning for moving load problems. *Eurodyn XII International Conference on Structural Dynamics* (2023).
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting traction return current in electric railway systems through physics-informed neural networks. *IEEE Symposium Series on Computational Intelligence (SSCI)* (2022).  
 - <sup>\*</sup>Contributed equally
+
+  ## Posters
+1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. [Gradient weighted physics-informed neural networks for capturing shocks in porous media flows]([https://link.springer.com/chapter/10.1007/978-3-031-36644-4_6](https://www.researchgate.net/publication/375922208_Gradient_weighted_physics-informed_neural_networks_for_capturing_shocks_in_porous_media_flow)).*Conference: NeurIPS Workshop: Machine learning and the Physical Sciences*(2023).
+1. **Taniya Kapoor**, Roberto Molinaro, Siddhartha Mishra. [Physics Informed Neural Networks for Approximating Fully Nonlinear PDEs]([https://link.springer.com/chapter/10.1007/978-3-031-36644-4_6](https://www.researchgate.net/publication/369912776_Physics_Informed_Neural_Networks_for_Approximating_Fully_Nonlinear_PDEs)https://www.researchgate.net/publication/369912776_Physics_Informed_Neural_Networks_for_Approximating_Fully_Nonlinear_PDEs).*London Mathematical Society Workshop on the Mathematics of Deep Learning*(2022).
+   
+
