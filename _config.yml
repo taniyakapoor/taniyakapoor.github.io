@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Taniya"
   avatar           : "profile.png"
-  bio              : "Master student-scientific computing"
-  location         : "Lille, France"
+  bio              : "PhD Researcher"
+  location         : "Delft, The Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kapoortaniya702@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=aa6HC8MAAAAJ&hl=en"
+  email            : "t.kapoor@tudelft.nl"
+  researchgate     : "https://www.researchgate.net/profile/Taniya-Kapoor-2"
   uri              :
   bitbucket        :
   codepen          :
