@@ -12,6 +12,6 @@ Supervision Activities:
 
 Led the proposal of master thesis on beam dynamics using PIML.
 Co-Supervising one masters student on Beam dynamics using PIML.
-Supervising two masters student on Extrapolation of PIML.
+Currently, Supervising two masters student on Extrapolation of PIML for three months.
 
 
