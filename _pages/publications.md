@@ -17,7 +17,10 @@ author_profile: true
    
 ## Workshop Papers
 1. Taniya Kapoor, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
-1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. Gradient weighted physics-informed neural networks for capturing shocks in porous media flows *NeurIPS Workshop: Machine learning and the Physical Sciences*(2023). 
+1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. Gradient weighted physics-informed neural networks for capturing shocks in porous media flows *NeurIPS Workshop: Machine learning and the Physical Sciences*(2023).
+   
+## Preprints
+1. Abhishek Chandra<sup>\*</sup>, Taniya Kapoor<sup>\*</sup>, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M Tartakovsky, Elena A Lomonova. Neural Oscillators for Magnetic Hysteresis Modeling *CWI Autumn SchoolAt: Amsterdam*(2023) 
 
 ## Posters
 1. Taniya Kapoor, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
