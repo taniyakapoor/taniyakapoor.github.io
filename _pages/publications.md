@@ -11,5 +11,5 @@ author_profile: true
 
 ## Conference Papers
 
-1. Taniya Kapoor$^*$, Abhishek Chandra$^*$, Daniel M Tartakovsky, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. Neural oscillators for generalization of physics-informed machine learning. *Proceedings of the 38th AAAI Conference on Artificial Intelligence* (2024).
+1. Taniya Kapoor<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Daniel M Tartakovsky, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. Neural oscillators for generalization of physics-informed machine learning. *Proceedings of the 38th AAAI Conference on Artificial Intelligence* (2024).
 - <sup>\*</sup>Contributed equally
