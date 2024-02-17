@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Material Development and Master thesis supervision"
+type: "Material Development and Master Students Supervision"
 venue: "TU Delft, Engineering Structures"
 date: 2023
 location: "Delft, The Netherlands"
