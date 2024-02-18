@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course material development and Supervision"
 venue: "TU Delft, The Netherlands"
 location: "Delft, The Netherlands"
----
+--- 
 
 I am thrilled to share my active involvement and contributions to the cutting-edge intersection of physics-informed machine learning (PIML) and beam dynamics. My work focuses on pioneering educational initiatives, supervising student projects, and leading proposals that bridge these two vital fields of study. Here's an overview of my key contributions:
 
