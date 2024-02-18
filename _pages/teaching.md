@@ -4,12 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
+**Masters thesis and Supervision**
 
-**Master's Course Development and Supervision**
+I have been deeply involved in supervising on various projects at the forefront of PIML. My supervision activities include:
 
-I played a pivotal role in formulating a proposal for a master's course uniquely designed to integrate PIML within the context of beam dynamics. This initiative aimed at equipping students with the necessary skills to apply machine learning techniques in physics, particularly in understanding and simulating the dynamics of beams.
+**Direct Supervision of Student Projects:** I am currently supervising two master's students on a project focusing on generalization of the neural PDE solvers. 
+**Leading a Master Thesis Proposal:** I Led a master thesis proposal focusing on the application of PIML in beam dynamics, setting a new direction for future research in the field.
+**Co-Supervision of a Master's Thesis:** I had the privilege of co-supervising a master's student whose thesis project centered on beam dynamics using PIML, contributing to their academic and professional development.
 
-Supervisory Support: Central to this course was my commitment to providing three months of supervisory support to a group of nine dedicated students. This project was not just an educational journey but a pioneering exploration into applying PIML in practical, real-world scenarios within beam dynamics.
+
+I played a pivotal role in formulating a proposal for a master's course (Data Science and AI for Engineer) designed to integrate PIML within the context of beam dynamics. This initiative aimed at equipping students with the necessary skills to apply machine learning techniques, particularly in understanding and simulating the dynamics of beams using PIML.
+
+**Supervision:** Central to this course was my commitment to providing three months of supervisory support to a group of nine dedicated students. This three months project was not just an educational journey but a pioneering exploration into applying PIML in practical, real-world scenarios within beam dynamics.
 
 **Educational Material Preparation**
 
@@ -20,10 +26,3 @@ My efforts extended to the development of comprehensive tutorial on machine lear
 3. Dynamica
 4. IFEEMCS520100
 
-**Supervision**
-
-I have been deeply involved in supervising on various projects at the forefront of PIML. My supervision activities include:
-
-Leading a Master Thesis Proposal: I spearheaded a master thesis proposal focusing on the application of PIML in beam dynamics, setting a new direction for future research in the field.
-Co-Supervision of a Master's Thesis: I had the privilege of co-supervising a master's student whose thesis project centered on beam dynamics using PIML, contributing to their academic and professional development.
-Direct Supervision of Student Projects: I am currently supervising two master's students on a project aimed at extrapolating PIML for PDE solver. 
