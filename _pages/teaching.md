@@ -15,10 +15,10 @@ Educational Material Preparation
 
 My efforts extended to the development of comprehensive tutorial on machine learning and examination materials tailored for bachelor's and master's courses, including:
 
-A1
-MUDE
-Dynamica
-IFEEMCS520100
+1. A1
+2. MUDE
+3. Dynamica
+4. IFEEMCS520100
 
 Supervision Achievements
 
