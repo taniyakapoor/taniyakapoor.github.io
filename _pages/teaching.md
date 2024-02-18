@@ -20,6 +20,7 @@ I have successfully led a master thesis proposal that explores the use of PIML i
 It has been an honor to co-supervise a master's student whose thesis project delves into the intricacies of beam dynamics through the lens of PIML. This collaboration has been instrumental in enriching the student's academic and research experience.
 
 **Course Development: Data Science and AI for Engineers**
+
 I played a pivotal role in the development of a master's course "Data Science and AI for Engineers," project specifically designed to integrate PIML for beam dynamics. This project is tailored to arm students with the essential machine learning techniques needed for understanding and simulating beam dynamics effectively using PIML.
 
 **Supervision Component**
@@ -27,6 +28,7 @@ I played a pivotal role in the development of a master's course "Data Science an
 A key feature of this course is my dedicated three-month supervisory support for a group of nine students. This period is not merely academic but a deep dive into the practical application of PIML in real-world scenarios, significantly enhancing the learning experience.
 
 **Educational Material Preparation**
+
 In addition to my supervisory roles, I have been committed to creating and developing educational materials to further support learning in both bachelor's and master's levels. These materials are designed to offer comprehensive insights into machine learning, tailored specifically for courses such as:
 
 A1
