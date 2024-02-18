@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD researcher in Engineering Structures [Department](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/railway-engineering/staff), Faculty of Civil Engineering and Geosciences at TU Delft. My research interests focus on the fusion of scientific machine learning and Structural engineering.
 
-Prior to this, I worked as an intern in [CAMLab](https://camlab.ethz.ch), seminar for applied mathematics at ETH Zurich, on the project: physics-informed neural networks for fully non-linear PDEs. I received my master’s degree in applied mathematics and scientific computing from South Asian University, India and University de Lille, France.
+Prior to this, I worked as an intern in [CAMLab](https://camlab.ethz.ch), seminar for applied mathematics at ETH Zurich, in the domain of physics-informed neural networks for fully non-linear PDEs. I received my master’s degree in applied mathematics and scientific computing from [South Asian University](https://sau.int), India and [University de Lille](https://www.univ-lille.fr), France.
 
 Here is a recent copy of my  [CV](https://taniyakapoor.github.io/files/Taniya_CV.pdf).
 
