@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
-**Master's Thesis and Supervision**
 As an active contributor to the intersection of Physics-Informed Machine Learning (PIML) and beam dynamics, I have had the privilege of guiding and supervising a range of projects within this innovative domain. My involvement has been multifaceted, ranging from direct project supervision to the leadership in thesis proposals. Here's a closer look at my supervisory roles:
 
 **Direct Supervision of Student Projects**
