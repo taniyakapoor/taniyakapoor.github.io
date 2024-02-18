@@ -30,8 +30,8 @@ A key feature of this course is my dedicated three-month supervisory support for
 
 In addition to my supervisory roles, I have been committed to creating and developing educational materials to further support learning in both bachelor's and master's levels. These materials are designed to offer comprehensive insights into machine learning, tailored specifically for courses such as:
 
-A1
-MUDE
-Dynamica
-IFEEMCS520100
+A1;
+MUDE;
+Dynamica;
+IFEEMCS520100.
 
