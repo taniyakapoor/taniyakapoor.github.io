@@ -10,7 +10,7 @@ author_profile: true
  - 2023: Railway Colloquium, TU Delft, The Netherlands on "Predicting traction return current in electric railway systems through physics-informed neural networks".
 
 
-## Fellowship, Scholarship & Grant
+## Fellowship, Scholarships & Grant
 
 - 2023: Travel Grant for attending CWI autumn School, Amsterdam.
 - 2021: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France.
