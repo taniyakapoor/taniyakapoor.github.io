@@ -6,7 +6,7 @@ author_profile: true
 ---
 As an active contributor to the intersection of Physics-Informed Machine Learning (PIML) and beam dynamics, I have had the privilege of guiding and supervising a range of projects within this innovative domain. My involvement has been multifaceted, ranging from direct project supervision to the leadership in thesis proposals. Here's a closer look at my supervisory roles:
 
-**Direct Supervision of Student Projects**
+**Direct Supervision**
 
 Currently, I am supervising two master's students on a project that aims at the generalization of neural PDE solvers. This work aims to tackle a challenge of physics-informed machine learning (PIML) is its generalization beyond the training domain, especially when dealing with complex physical problems represented by partial differential equations (PDEs). 
 
