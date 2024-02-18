@@ -14,3 +14,4 @@ Prior to this, I worked as an intern in [CAMLab](https://camlab.ethz.ch), semina
 
 Here is a recent copy of my  [CV](https://taniyakapoor.github.io/files/Taniya_CV.pdf).
 
+
