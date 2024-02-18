@@ -3,7 +3,6 @@ title: "Teaching experience"
 collection: teaching
 type: "Masters course material development and Supervision"
 venue: "TU Delft, The Netherlands"
-date: 2024
 location: "Delft, The Netherlands"
 ---
 
