@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. **Taniya Kapoor**, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. [Transfer learning for improved generalizability in causal physics-informed neural networks for beam simulations](https://arxiv.org/pdf/2311.00578) *Accepted: Engineering Applications of Artificial Intelligence*(2024)
+1. **Taniya Kapoor**, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. [Transfer learning for improved generalizability in causal physics-informed neural networks for beam simulations](https://www.sciencedirect.com/science/article/pii/S0952197624002434) *Engineering Applications of Artificial Intelligence*(2024)
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet(2023). [Physics-informed neural networks for solving forward and inverse problems in complex beam systems](https://ieeexplore.ieee.org/document/10255379) *IEEE Transactions on Neural Networks and Learning Systems*(2023).
 
 ## Conference Papers
