@@ -11,7 +11,7 @@ author_profile: true
  - 2023: Railway Colloquium, TU Delft, The Netherlands on "Predicting traction return current in electric railway systems through physics-informed neural networks".
 
 ## Contributed talks
- - 2024: Workshop on Computational and Mathematical Methods in Data Science 2024, TU Delft "Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators ".
+ - 2024: Workshop on Computational and Mathematical Methods in Data Science, TU Delft, "Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators ".
  - 2023: Eurodyn Conference, TU Delft, The Netherlands on "Physics-informed machine learning for moving load problems".
  - 2023: IEEE SSCI Conference, Singapore, on "Predicting traction return current in electric railway systems through physics-informed neural networks".
 
