@@ -10,6 +10,7 @@ author_profile: true
   - [Engineering with Computers](https://www.springer.com/journal/366)
   - [International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
+  - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 
 - Conference Reviewer:
