@@ -15,7 +15,8 @@ author_profile: true
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 
 - Conference Reviewer:
-
+  
+  - [NeurIPS 2024](https://neurips.cc/)
   - [ICLR 2024 AI4DiffEqtnsInSci Workshop](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
   - [NeurIPS DLDE 2023 Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE#tab-your-consoles)
   - [IJCNN](https://2023.ijcnn.org)
