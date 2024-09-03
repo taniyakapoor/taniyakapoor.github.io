@@ -14,7 +14,7 @@ author_profile: true
   - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 
-- Conference Reviewer:
+- Conference/Workshop Reviewer:
   
   - [NeurIPS 2024](https://neurips.cc/)
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
