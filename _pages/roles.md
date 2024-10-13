@@ -17,7 +17,7 @@ author_profile: true
 
 - Conference/Workshop Reviewer:
   
-  - [ICML 2025](https://icml.cc)
+  - [ICLR 2025](https://iclr.cc)
   - [NeurIPS 2024](https://neurips.cc/)
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
