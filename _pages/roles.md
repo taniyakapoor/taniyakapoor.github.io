@@ -11,6 +11,7 @@ author_profile: true
   - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
+  - [Engineering Structures](https://www.sciencedirect.com/journal/engineering-structures)
   - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 
