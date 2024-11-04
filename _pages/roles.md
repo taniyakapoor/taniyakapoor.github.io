@@ -18,7 +18,7 @@ author_profile: true
 - Conference/Workshop Reviewer:
   
   - [ICLR 2025](https://iclr.cc)
-  - [AISTAT 2025](https://aistats.org/aistats2025//)
+  - [AISTATS 2025](https://aistats.org/aistats2025//)
   - [NeurIPS 2024](https://neurips.cc/)
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
