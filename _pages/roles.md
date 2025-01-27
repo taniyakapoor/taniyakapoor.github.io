@@ -15,6 +15,8 @@ author_profile: true
   - [Engineering Structures](https://www.sciencedirect.com/journal/engineering-structures)
   - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
+  - [Journal of Mathematics in Industry](https://mathematicsinindustry.springeropen.com)
+  - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476)
 
 - Conference/Workshop Reviewer:
   
