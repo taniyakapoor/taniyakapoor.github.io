@@ -5,6 +5,15 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+## Fellowship, Scholarships & Grant
+
+- 2025: Schmidt AI in Science Fellowship, Oxford, England.
+- 2023: Travel Grant for attending CWI autumn School, Amsterdam, The Netherlands.
+- 2021: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France.
+- 2018: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
+- 2017: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
+
+
 ## Invited talks
  
  - 2024: Knowledge guided machine learning bridge program AAAI, Vancouver, Canada on "Neural ODEs for generalization of machine learning" (lightining talk).
@@ -18,10 +27,3 @@ author_profile: true
  - 2023: IEEE SSCI Conference, Singapore, on "Predicting traction return current in electric railway systems through physics-informed neural networks".
 
 
-## Fellowship, Scholarships & Grant
-
-- 2025: Schmidt AI in Science Fellowship, Oxford, England.
-- 2023: Travel Grant for attending CWI autumn School, Amsterdam, The Netherlands.
-- 2021: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France.
-- 2018: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
-- 2017: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
