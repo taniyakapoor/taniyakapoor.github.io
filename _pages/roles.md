@@ -4,6 +4,15 @@ title: "Roles"
 permalink: /roles/
 author_profile: true
 ---
+
+- Area Chair:
+ 
+  - [International Joint Conference on Neural Networks](https://2025.ijcnn.org)
+    
+- Organizing Committee:
+  
+  - [AAAI 2025 BRIDGE on KNOWGLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
+
 - Journal Reviewer:
  
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
