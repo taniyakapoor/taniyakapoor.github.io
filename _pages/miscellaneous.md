@@ -7,7 +7,7 @@ author_profile: true
 
 ## Fellowship, Scholarships & Grant
 
-- 2025: Schmidt AI in Science Fellowship, Oxford, England.
+- 2025: Schmidt AI in Science Postdoctoral Fellowship, University of Oxford, England.
 - 2023: Travel Grant for attending CWI autumn School, Amsterdam, The Netherlands.
 - 2021: CEMPI LABEX Fellowship for pursuing masters (Fully-funded), France.
 - 2018: SAARC Nation scholarship for pursuing masters (Fully-funded), India.
