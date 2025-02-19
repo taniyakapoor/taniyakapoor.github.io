@@ -7,7 +7,7 @@ author_profile: true
 
 - Area Chair:
  
-  - [International Joint Conference on Neural Networks](https://2025.ijcnn.org)
+  - [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)
     
 - Organizing Committee:
   
@@ -28,15 +28,17 @@ author_profile: true
   - [Journal of Mathematics in Industry](https://mathematicsinindustry.springeropen.com)
   - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476)
 
-- Conference/Workshop Reviewer:
+- Conference Reviewer:
   
   - [ICML 2025](https://icml.cc/)
   - [ICLR 2025](https://iclr.cc)
   - [AISTATS 2025](https://aistats.org/aistats2025//)
   - [NeurIPS 2024](https://neurips.cc/)
+  - [IJCNN](https://2023.ijcnn.org)
+  - [Eurodyn](https://eurodyn2023.dryfta.com)
+ 
+  - Workshop Reviewer:
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
   - [AI4DiffEqtnsInSci Workshop@ICLR24](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
   - [DLDE Workshop@NeurIPS23](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE#tab-your-consoles)
-  - [IJCNN](https://2023.ijcnn.org)
-  - [Eurodyn](https://eurodyn2023.dryfta.com)
