@@ -16,6 +16,7 @@ author_profile: true
 - Journal Reviewer:
  
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+  - [Nature: communications engineering](https://www.nature.com/commseng/)
   - [Engineering with Computers](https://www.springer.com/journal/366)
   - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
