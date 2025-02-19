@@ -37,7 +37,8 @@ author_profile: true
   - [IJCNN](https://2023.ijcnn.org)
   - [Eurodyn](https://eurodyn2023.dryfta.com)
  
-  - Workshop Reviewer:
+- Workshop Reviewer:
+  
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
   - [AI4DiffEqtnsInSci Workshop@ICLR24](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
