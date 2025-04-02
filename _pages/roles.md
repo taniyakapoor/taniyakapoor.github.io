@@ -11,7 +11,7 @@ author_profile: true
     
 - Organizing Committee:
   
-  - [AAAI 2025 BRIDGE on KNOWGLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
+  - [AAAI 2025 BRIDGE on KNOWLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
 
 - Journal Reviewer:
  
