@@ -22,6 +22,7 @@ author_profile: true
   - [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
   - [International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
+  - [Nonlinear Dynamics](https://link.springer.com/journal/11071)
   - [Engineering Structures](https://www.sciencedirect.com/journal/engineering-structures)
   - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
