@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### News
-
 I’m delighted to share that I will be joining the University of Oxford as an [AI Schmidt Postdoctoral Fellow](https://www.mpls.ox.ac.uk/research-funding/internal-research-funding/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship-program).
 
 ---
 
-I am currently a Postdoctoral Researcher in the [Engineering Structures Department](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/railway-engineering/staff), Faculty of Civil Engineering and Geosciences at TU Delft. My research interests lie at the intersection of scientific machine learning and structural engineering.
+I am a Postdoctoral researcher in the Engineering Structures [Department](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/railway-engineering/staff), Faculty of Civil Engineering and Geosciences at TU Delft. My research interests focus on the fusion of scientific machine learning and structural engineering. 
 
-I received my PhD from the same department at TU Delft, focusing on **physics-informed machine learning for beam structure applications**. Prior to that, I interned at [CAMLab](https://camlab.ethz.ch), the Seminar for Applied Mathematics at ETH Zurich, where I worked on physics-informed neural networks for fully non-linear PDEs.
+I received my PhD degree in Physics-informed machine learning for beam structures applications, from the Engineering Structures Department at TU Delft. Before this, I worked as an intern at [CAMLab](https://camlab.ethz.ch), a seminar for applied mathematics at ETH Zurich, in physics-informed neural networks for fully non-linear PDEs. I received my master’s degree in applied mathematics and scientific computing from [South Asian University](https://sau.int), India, and [University de Lille](https://www.univ-lille.fr), France.
 
-I hold a master’s degree in **Applied Mathematics and Scientific Computing** from [South Asian University](https://sau.int), India, and [Université de Lille](https://www.univ-lille.fr), France.
-
-You can find a recent copy of my [CV here](https://taniyakapoor.github.io/files/Taniya_CV_new.pdf).
+Here is a recent copy of my  [CV](https://taniyakapoor.github.io/files/Taniya_CV_new.pdf).
