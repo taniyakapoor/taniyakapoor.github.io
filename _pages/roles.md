@@ -4,7 +4,7 @@ title: "Roles"
 permalink: /roles/
 author_profile: true
 ---
-- Programme chair member:
+- Programme Chair Member:
   
     - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
       
