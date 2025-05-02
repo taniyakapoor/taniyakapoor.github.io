@@ -4,7 +4,10 @@ title: "Roles"
 permalink: /roles/
 author_profile: true
 ---
-
+- Programme chair member:
+  
+    - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
+      
 - Area Chair:
  
   - [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)
