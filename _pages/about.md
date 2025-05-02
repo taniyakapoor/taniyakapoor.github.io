@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m delighted to share that I will be joining the University of Oxford as an [AI Schmidt Postdoctoral Fellow](https://www.mpls.ox.ac.uk/research-funding/internal-research-funding/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship-program).
+**News** I’m delighted to share that I will be joining the University of Oxford as an [AI Schmidt Postdoctoral Fellow](https://www.mpls.ox.ac.uk/research-funding/internal-research-funding/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship-program).
 
 ---
 
