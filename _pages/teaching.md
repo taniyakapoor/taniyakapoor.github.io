@@ -4,8 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
-**Supervision**
-
 I am currently working with three PhD researchers to develop a generalizable AI tool for engineering systems. I believe AI has much potential to offer and will be embedded throughout our world in the same way computers do today.
 
 I supervised two master's students on a project that aims at the generalization of neural PDE solvers. This work aims to tackle the challenge of PIML in its generalization beyond the training domain, especially when dealing with complex physical problems represented by partial differential equations. I am happy to share our collaborative work, "Neural Differential Equation-Based Two-Stage Approach for Generalization of Beam Dynamics," published at IEEE Transactions on Industrial Informatics :)
