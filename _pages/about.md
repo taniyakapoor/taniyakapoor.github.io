@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**News:** I’ll be joining the University of Oxford as a [Schmidt AI in Science Fellow!](https://www.mpls.ox.ac.uk/research-funding/internal-research-funding/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship-program).
+**News:** I’ll be joining the University of Oxford as a [Schmidt AI in Science Fellow!](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows).
 
 ---
 
