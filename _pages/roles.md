@@ -4,9 +4,6 @@ title: "Roles"
 permalink: /roles/
 author_profile: true
 ---
-- Programme Chair Member:
-  
-    - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
       
 - Area Chair:
  
@@ -15,6 +12,10 @@ author_profile: true
 - Organizing Committee:
   
   - [AAAI 2025 BRIDGE on KNOWLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
+
+- Programme Chair Member:
+  
+    - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
 
 - Journal Reviewer:
  
