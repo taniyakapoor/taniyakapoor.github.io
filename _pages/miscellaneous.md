@@ -4,7 +4,11 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 ---
+## Press
 
+- 2025:"[Oxford Awards AI in Science Fellowship to T. Kapoor](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows)"
+- 2025:"[At Oxford, T. Kapoor will focus on developing Engineering-informed foundation models](https://eng.ox.ac.uk/news/five-engineers-join-schmidt-ai-in-science-fellowship-2025-cohort/)"
+  
 ## Fellowship, Scholarships & Grant
 
 - 2025: Schmidt AI in Science Postdoctoral Fellowship, University of Oxford, England.
