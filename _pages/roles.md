@@ -35,7 +35,7 @@ author_profile: true
 
 - Conference Reviewer:
   
-  - [ICML 2025](https://icml.cc/)
+  - [NeurIPS 2025](https://neurips.cc/)
   - [ICLR 2025](https://iclr.cc)
   - [AISTATS 2025](https://aistats.org/aistats2025//)
   - [NeurIPS 2024](https://neurips.cc/)
