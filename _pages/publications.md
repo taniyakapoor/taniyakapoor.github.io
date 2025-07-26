@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true 
 ---
 ## Preprints
-1. Abhishek Chandra, Taniya Kapoor, Mitrofan Curti, Koen Tiels, Elena A. Lomonova Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems (2025)
-2. Taniya Kapoor, Abhishek Chandra, Barbara Rossi, Stephen J Roberts, Hongrui Wang, Alfredo Núñez Holistic AI Will Revolutionize Structural Engineering: From Strength to Sustainability (2025)
+1. Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti, Koen Tiels, Elena A. Lomonova Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems (2025)
+2. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Barbara Rossi, Stephen J Roberts, Hongrui Wang, Alfredo Núñez Holistic AI Will Revolutionize Structural Engineering: From Strength to Sustainability (2025)
 3. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Solving partial differential equations with sampled neural networks (2024)
    
 ## Journal Papers
