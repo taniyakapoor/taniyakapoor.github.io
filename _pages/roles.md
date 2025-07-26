@@ -19,6 +19,7 @@ author_profile: true
 
 - Journal Reviewer:
  
+  - [Artificial Intelligence Review](https://link.springer.com/journal/10462)
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
   - [Nature: communications engineering](https://www.nature.com/commseng/)
   - [Expert systems with applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
@@ -38,6 +39,7 @@ author_profile: true
   
   - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
   - [NeurIPS 2025](https://neurips.cc/)
+  - [ICML 2025](https://icml.cc)
   - [ICLR 2025](https://iclr.cc)
   - [AISTATS 2025](https://aistats.org/aistats2025//)
   - [NeurIPS 2024](https://neurips.cc/)
