@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true 
 ---
-
+## Preprints
+1. Abhishek Chandra, Taniya Kapoor, Mitrofan Curti, Koen Tiels, Elena A. Lomonova Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems (2025)
+2. Taniya Kapoor, Abhishek Chandra, Barbara Rossi, Stephen J Roberts, Hongrui Wang, Alfredo Núñez Holistic AI Will Revolutionize Structural Engineering: From Strength to Sustainability (2025)
+3. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Solving partial differential equations with sampled neural networks (2024)
+   
 ## Journal Papers
 1. Abhishek Chandra<sup>\*</sup>, **Taniya Kapoor<sup>\*</sup>**, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M Tartakovsky, Elena A Lomonova. [Generalizable models of magnetic hysteresis via physics-aware recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0010465525001523) *Computer Physics Communications* (2025)
 1. **Taniya Kapoor**, Hongrui Wang, Anastasios Stamou<sup>\*</sup>, Kareem El Sayed<sup>\*</sup>, Alfredo Nunez, Daniel M Tartakovsky, Rolf Dollevoet. [Neural differential equation-based two-stage approach for generalization of beam dynamics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10799209) *IEEE Transactions on Industrial Informatics* (2024)
@@ -22,9 +26,6 @@ author_profile: true
 1. **Taniya Kapoor**, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs. *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
 1. Somiya Kapoor, Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti. Gradient weighted physics-informed neural networks for capturing shocks in porous media flows. *NeurIPS Workshop: Machine learning and the Physical Sciences*(2023).
    
-## Preprints
-1. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Solving partial differential equations with sampled neural networks (2024)
-
 
 ## Posters
 1. **Taniya Kapoor**, Abhishek Chandra, Daniel Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural oscillators for generalizing parametric PDEs. *NeurIPS 2023 Workshop: The Symbiosis of Deep Learning and Differential Equations III*(2023)
