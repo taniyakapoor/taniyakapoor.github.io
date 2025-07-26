@@ -21,6 +21,7 @@ author_profile: true
  
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
   - [Nature: communications engineering](https://www.nature.com/commseng/)
+  - [Expert systems with applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
   - [Engineering with Computers](https://www.springer.com/journal/366)
   - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
@@ -35,6 +36,7 @@ author_profile: true
 
 - Conference Reviewer:
   
+  - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
   - [NeurIPS 2025](https://neurips.cc/)
   - [ICLR 2025](https://iclr.cc)
   - [AISTATS 2025](https://aistats.org/aistats2025//)
@@ -44,6 +46,7 @@ author_profile: true
  
 - Workshop Reviewer:
   
+  - [ML for PS  Workshop@NeurIPS25](https://ml4physicalsciences.github.io/2025/)
   - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
   - [AI4DiffEqtnsInSci Workshop@ICLR24](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
