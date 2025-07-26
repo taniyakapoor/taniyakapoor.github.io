@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. Abhishek Chandra<sup>\*</sup>, **Taniya Kapoor<sup>\*</sup>**, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M Tartakovsky, Elena A Lomonova. [Generalizable models of magnetic hysteresis via physics-aware recurrent neural networks] (https://www.sciencedirect.com/science/article/pii/S0010465525001523) *Computer Physics Communications* (2025)
+1. Abhishek Chandra<sup>\*</sup>, **Taniya Kapoor<sup>\*</sup>**, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M Tartakovsky, Elena A Lomonova. [Generalizable models of magnetic hysteresis via physics-aware recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0010465525001523) *Computer Physics Communications* (2025)
 1. **Taniya Kapoor**, Hongrui Wang, Anastasios Stamou<sup>\*</sup>, Kareem El Sayed<sup>\*</sup>, Alfredo Nunez, Daniel M Tartakovsky, Rolf Dollevoet. [Neural differential equation-based two-stage approach for generalization of beam dynamics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10799209) *IEEE Transactions on Industrial Informatics* (2024)
 2. Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti, Koen Tiels, Elena A. Lomonova. [Characterizing nonlinear piezoelectric dynamics through deep neural operator learning](https://pubs.aip.org/aip/apl/article/125/26/262902/3328470) *Applied Physics Letters* (2024)
 1. **Taniya Kapoor**, Hongrui Wang, Alfredo Nunez, Rolf Dollevoet. [Transfer learning for improved generalizability in causal physics-informed neural networks for beam simulations](https://www.sciencedirect.com/science/article/pii/S0952197624002434) *Engineering Applications of Artificial Intelligence* (2024)
