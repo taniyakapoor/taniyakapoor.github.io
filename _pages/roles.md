@@ -46,8 +46,8 @@ author_profile: true
  
 - Workshop Reviewer:
   
-  - [ML for PS  Workshop@NeurIPS25](https://ml4physicalsciences.github.io/2025/)
-  - [ML for PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
+  - [ML4PS  Workshop@NeurIPS25](https://ml4physicalsciences.github.io/2025/)
+  - [ML4PS  Workshop@NeurIPS24](https://ml4physicalsciences.github.io/2024/)
   - [D3S3 Workshop@NeurIPS24](https://d3s3workshop.github.io/)
   - [AI4DiffEqtnsInSci Workshop@ICLR24](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci/Reviewers&referrer=%5BHomepage%5D(%2F))
   - [DLDE Workshop@NeurIPS23](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE#tab-your-consoles)
