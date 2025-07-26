@@ -6,8 +6,9 @@ author_profile: true
 ---
 ## Preprints
 1. Abhishek Chandra, **Taniya Kapoor**, Mitrofan Curti, Koen Tiels, Elena A. Lomonova Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems (2025)
-2. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Barbara Rossi, Stephen J Roberts, Hongrui Wang, Alfredo Núñez Holistic AI Will Revolutionize Structural Engineering: From Strength to Sustainability (2025)
-3. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Solving partial differential equations with sampled neural networks (2024)
+2. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Barbara Rossi, Stephen J Roberts, Hongrui Wang, Alfredo Núñez. Holistic AI Will Revolutionize Structural Engineering: From Strength to Sustainability (2025)
+3. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Anastasios Stamou, Stephen J Roberts. Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers
+4. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Solving partial differential equations with sampled neural networks (2024)
    
 ## Journal Papers
 1. Abhishek Chandra<sup>\*</sup>, **Taniya Kapoor<sup>\*</sup>**, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M Tartakovsky, Elena A Lomonova. [Generalizable models of magnetic hysteresis via physics-aware recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0010465525001523) *Computer Physics Communications* (2025)
