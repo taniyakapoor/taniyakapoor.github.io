@@ -7,7 +7,8 @@ author_profile: true
       
 - Area Chair:
  
-  - [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)
+  - [NeurIPS2025-AI4Science](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science#tab-your-consoles)
+  -  [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)
     
 - Organizing Committee:
   
@@ -30,6 +31,7 @@ author_profile: true
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
   - [Nonlinear Dynamics](https://link.springer.com/journal/11071)
   - [Engineering Structures](https://www.sciencedirect.com/journal/engineering-structures)
+  - [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)
   - [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)
   - [SoftwareX](https://www.sciencedirect.com/journal/softwarex)
   - [Journal of Mathematics in Industry](https://mathematicsinindustry.springeropen.com)
