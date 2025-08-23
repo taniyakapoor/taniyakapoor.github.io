@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**News:** I’ll be joining the University of Oxford as a [Schmidt AI in Science Fellow!](https://saiis.web.ox.ac.uk/our-people?filter-13541-cohort-4319696=97706&page-4319696=0).
+**News:** I’ll be joining [Wageningen University and Researc](https://www.wur.nl/en.htm)h as an Assistant Professor :)
 
 ---
 
