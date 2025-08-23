@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**News:** I’ll be joining [Wageningen University and Research](https://www.wur.nl/en.htm)h as an Assistant Professor :)
+**News:** I’ll be joining [Wageningen University and Research](https://www.wur.nl/en.htm) as an Assistant Professor :)
 
 ---
 
