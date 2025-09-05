@@ -21,12 +21,14 @@ author_profile: true
 - Journal Reviewer:
  
   - [Artificial Intelligence Review](https://link.springer.com/journal/10462)
+  - [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
   - [Nature: communications engineering](https://www.nature.com/commseng/)
   - [Expert systems with applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
   - [Engineering with Computers](https://www.springer.com/journal/366)
   - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
+  - [Journal of Hydrology](https://www.sciencedirect.com/journal/journal-of-hydrology)
   - [International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
   - [Thin-Walled Structures](https://www.sciencedirect.com/journal/thin-walled-structures)
   - [Nonlinear Dynamics](https://link.springer.com/journal/11071)
