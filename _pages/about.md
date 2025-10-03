@@ -7,13 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an Assistant Professor in the Artificial Intelligence Group at Wageningen University & Research (WUR). My research interests lie broadly in Machine Learning for the Sciences and Science for Machine Learning. In particular, I focus on developing ML models that integrate physical knowledge such as partial differential equations, ordinary differential equations, and physical laws, to tackle global challenges.
 
-**News:** I’ll be joining [Wageningen University and Research](https://www.wur.nl/en.htm) as an Assistant Professor :)
-
----
-
-I am a Postdoctoral researcher in the [Engineering Structures Department](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures/sections-labs/railway-engineering/staff), Faculty of Civil Engineering and Geosciences at TU Delft. My research interests focus on the fusion of scientific machine learning and structural engineering. I believe AI has much potential to offer for science and engineering and will be embedded throughout the disciplines in the same way computers do today.
-
-I received my PhD degree in physics-informed machine learning for beam structures applications, from the Engineering Structures Department at TU Delft. I was fortunate to be supervised by [Dr. Hongrui Wang](https://www.tudelft.nl/staff/h.wang.8/), [Dr. Alfredo Núñez](https://www.alfredonunez.net) and [Prof. Rolf Dollevoet](https://www.tudelft.nl/staff/r.p.b.j.dollevoet/). Before this, I worked as an intern at [CAMLab](https://camlab.ethz.ch), seminar for applied mathematics at ETH Zurich, in physics-informed neural networks for fully non-linear PDEs. I received my master’s degree in applied mathematics and scientific computing from [South Asian University](https://sau.int), India, and [University de Lille](https://www.univ-lille.fr), France.
+I obtained my PhD at TU Delft, where I worked on physics-informed machine learning for structural engineering applications under the supervision of Dr. Hongrui Wang, Dr. Alfredo Núñez, and Prof. Rolf Dollevoet. Following the completion of my PhD, I was awarded the AI Schmidt Postdoctoral Fellowship at the University of Oxford to develop engineering-informed foundation models for sustainable structural design. Prior to that, I worked at ETH Zürich (CAMLab) on physics-informed neural networks for nonlinear PDEs, and I completed my master’s studies in Applied Mathematics and High-Performance Scientific Computing at South Asian University (India) and Université de Lille (France).
 
 
