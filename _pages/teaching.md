@@ -4,32 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
-I am currently working with three PhD researchers to develop a generalizable AI tool for engineering systems. I believe AI has much potential to offer for science and engineering and will be embedded throughout the disciplines in the same way computers do today.
+At Wageningen University & Research (WUR), I am currently involved in research supervision and course development in the areas of artificial intelligence, deep learning, and data science. I co-supervise two PhD candidates and one postdoctoral researcher and contribute to the development of teaching materials. I will serve as a lecturer for the courses Deep Learning and Data Science for Global Challenges 2 and have previously been an invited speaker for AI for Science and Engineering.
 
-I supervised two master's students on a project that aims at the generalization of neural PDE solvers. This work aims to tackle the challenge of PIML in its generalization beyond the training domain, especially when dealing with complex physical problems represented by partial differential equations. I am happy to share our collaborative work, "Neural Differential Equation-Based Two-Stage Approach for Generalization of Beam Dynamics," published at IEEE Transactions on Industrial Informatics :)
-
-**Leading a Master Thesis Proposal**
-
-I have successfully led a master thesis proposal that explores the use of PIML in beam dynamics. 
-
-**Co-Supervision of a Master's Thesis**
-
-I am co-supervising a master's student whose thesis project delves into the intricacies of beam dynamics through the lens of PIML.
-
-**Course Development**
-
-I played a pivotal role in the project development of a master's course "Data Science and AI for Engineers". This project is tailored to arm students with the essential machine learning techniques needed for understanding and simulating beam dynamics using PIML.
-
-**Supervision Component**
-
-In this project, my role is for three-month supervisory support for a group of nine students. 
-
-**Educational Material Preparation**
-
-In addition to my supervisory roles, I have been involved to create and develop educational materials to further support learning in both bachelor's and master's levels. These materials are designed to offer comprehensive insights into machine learning, tailored specifically for courses such as:
-
-A1;
-MUDE;
-Dynamica;
-Fundamentals of Artificial Intelligence Programme.
+Previously at TU Delft, my teaching and supervision activities focused on the integration of AI into engineering education, particularly through physics-informed machine learning (PIML). I supervised and co-supervised several master’s thesis projects on neural PDE solvers and beam dynamics, contributing to peer-reviewed research published in IEEE Transactions on Industrial Informatics. I also collaborated with PhD researchers on the development of generalizable AI tools for engineering systems, supported project-based learning in the master’s course Data Science and AI for Engineers, and developed educational materials for bachelor’s and master’s courses including A1, MUDE, Dynamica, and the Fundamentals of Artificial Intelligence programme.
 
