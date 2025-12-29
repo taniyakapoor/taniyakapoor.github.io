@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [**Artificial Intelligence Group at WUR**](https://www.wur.nl/en/persons/taniya-kapoor.htm). My research focuses on two critical challenges in AI for science is facing: Limited data and computational cost. I believe we need to leverage the physical knowledge that we have over the years to reduce data dependency. To reduce computational cost, we need to utilize pre-trained models and focus on fine-tuning tasks.  
+I am an Assistant Professor in the [**Artificial Intelligence Group at WUR**](https://www.wur.nl/en/persons/taniya-kapoor.htm). My research focuses on two critical challenges in AI for science: Limited data and computational cost. I believe we need to leverage the physical knowledge that we have over the years to reduce data dependency. To reduce computational cost, we need to utilize pre-trained models and focus on fine-tuning tasks.  
 
 Before this, I was awarded the [**AI Schmidt Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows), focusing on engineering-informed foundation models for sustainable structural design. Earlier, I did my PhD and Postdoc at [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures) with Dr. Hongrui Wang, Dr. Alfredo Núñez, and Prof. Rolf Dollevoet, focusing on the generalization issues in physics-informed machine learning. 
 
