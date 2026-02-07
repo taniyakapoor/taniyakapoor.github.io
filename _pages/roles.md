@@ -8,15 +8,27 @@ author_profile: true
 - Area Chair:
  
   - [NeurIPS2025-AI4Science](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science#tab-your-consoles)
-  -  [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)
+  - [International Joint Conference on Neural Networks (IJCNN 2025, 2026)](https://2025.ijcnn.org)
     
 - Organizing Committee:
   
-  - [AAAI 2025 BRIDGE on KNOWLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
-
-- Programme Chair Member:
+  - [International Joint Conference on Neural Networks (IJCNN 2026)](https://sites.google.com/view/pinnswcci26/)
+  - [AAAI 2025, 2026 BRIDGE on KNOWLEDGE-GUIDED ML](https://sites.google.com/vt.edu/kgml-bridge-aaai-25/home)
+    
+ 
+- Conference Reviewer:
   
-    - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
+  - [ICML 2026](https://icml.cc)
+  - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
+  - [NeurIPS 2025](https://neurips.cc/) [Top Reviewer Award]
+  - [ICML 2025](https://icml.cc)
+  - [ICLR 2025](https://iclr.cc)
+  - [AISTATS 2025](https://aistats.org/aistats2025//)
+  - [The European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)
+  - [NeurIPS 2024](https://neurips.cc/)
+  - [IJCNN](https://2023.ijcnn.org)
+  - [Eurodyn](https://eurodyn2023.dryfta.com)
+
 
 - Journal Reviewer:
  
@@ -39,16 +51,6 @@ author_profile: true
   - [Journal of Mathematics in Industry](https://mathematicsinindustry.springeropen.com)
   - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476)
 
-- Conference Reviewer:
-  
-  - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
-  - [NeurIPS 2025](https://neurips.cc/)
-  - [ICML 2025](https://icml.cc)
-  - [ICLR 2025](https://iclr.cc)
-  - [AISTATS 2025](https://aistats.org/aistats2025//)
-  - [NeurIPS 2024](https://neurips.cc/)
-  - [IJCNN](https://2023.ijcnn.org)
-  - [Eurodyn](https://eurodyn2023.dryfta.com)
  
 - Workshop Reviewer:
   
