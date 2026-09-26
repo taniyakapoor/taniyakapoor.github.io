@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
 ---
 ## Press
