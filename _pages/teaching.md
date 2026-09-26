@@ -4,8 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
-## Education
-
   <div class="teaching-row">
     <div class="teaching-label">Teaching</div>
     <div class="teaching-content">
