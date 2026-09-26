@@ -19,6 +19,7 @@ author_profile: true
         <li><strong>Course Coordinator:</strong> <em>Deep Learning</em></li>
         <li><strong>Lecturer:</strong> <em>Machine Learning</em></li>
         <li><strong>Lecturer:</strong> <em>Deep Learning</em></li>
+        <li><strong>Lecturer:</strong> <em>3D Circular</em></li>
       </ul>
     </div>
   </div>
