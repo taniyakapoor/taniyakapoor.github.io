@@ -12,7 +12,7 @@ author_profile: true
     <div class="teaching-content">
       <ul>
         <li><strong>Course Coordinator:</strong> <em>Deep Learning</em></li>
-        <li><strong>Course Coordinator:</strong> <em>Deep Learning, , Machine learning and 3D CIRCULAR</em></li>
+        <li><strong>Lecturer:</strong> <em>Deep Learning, , Machine learning and 3D CIRCULAR</em></li>
       </ul>
     </div>
   </div>
