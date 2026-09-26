@@ -1,6 +1,4 @@
 
-## Education
-
 <section class="teaching-page">
 
   <h2 class="teaching-main-title">Teaching & Supervision</h2>
