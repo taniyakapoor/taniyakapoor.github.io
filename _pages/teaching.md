@@ -1,8 +1,11 @@
-<section class="teaching-page">
 
-  <h2 class="teaching-main-title">Teaching & Supervision</h2>
-
-  <h3 class="teaching-section-title">Wageningen University & Research</h3>
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true 
+---
+## Education
 
   <div class="teaching-row">
     <div class="teaching-label">Teaching</div>
