@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true 
 ---
+  <section class="teaching-page">
+  <h2 class="teaching-main-title">Teaching & Supervision</h2>
+  <h3 class="teaching-section-title">Wageningen University & Research</h3>
   <div class="teaching-row">
     <div class="teaching-label">Teaching</div>
     <div class="teaching-content">
