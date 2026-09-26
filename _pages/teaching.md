@@ -81,9 +81,9 @@ and have obtained three partial certificates:
 </p>
 
 <div class="utq-list">
-  <span>Teaching</span>
-  <span>Supervising</span>
-  <span>Designing</span>
+  <span>Teach</span>
+  <span>Supervise</span>
+  <span>Design</span>
 </div>
 
 
