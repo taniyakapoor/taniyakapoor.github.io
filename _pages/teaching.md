@@ -41,15 +41,37 @@ author_profile: true
     </div>
   </div>
 
-  <div class="teaching-row">
-    <div class="teaching-label">MSc Supervision</div>
-    <div class="teaching-content">
-      <ul>
-        <li>Co-supervising MSc thesis students on challenge-driven AI</li>
-        <li>Applications in greenhouse systems, meteorology, and food science</li>
-      </ul>
-    </div>
+<div class="teaching-row">
+  <div class="teaching-label">MSc Co-Supervision</div>
+  <div class="teaching-content">
+    <ul>
+      <li>
+        <strong>Nefeli Pavlidou</strong> — 
+        <em>Improving Plant Protein Gelation Modeling via Foundation Models</em>
+      </li>
+
+      <li>
+        <strong>Jonas Oostra</strong> — 
+        <em>Foundation Models for Reconstructing Missing Tropospheric NO₂ Satellite Observations</em>
+      </li>
+
+      <li>
+        <strong>Michael Schelling</strong> — 
+        <em>A Physics-Informed Hybrid Model for Greenhouse Tomato Growth Prediction</em>
+      </li>
+
+      <li>
+        <strong>Dhaksesh Raaj Thenmozhi Raj Mohan</strong> — 
+        <em>Can a Hybrid GreenLight Model Predict the Yield of Crops Other Than Highwire Tomato?</em>
+      </li>
+
+      <li>
+        <strong>Anwar Abdelhafez Ali Islam</strong> — 
+        <em>Physiologically-Informed Foundation Models for Greenhouse Resource Optimization</em>
+      </li>
+    </ul>
   </div>
+</div>
 
   <div class="teaching-row">
     <div class="teaching-label">Course Development</div>
