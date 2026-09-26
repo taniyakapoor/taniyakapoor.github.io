@@ -16,7 +16,7 @@ author_profile: true
     <div class="teaching-label">Teaching</div>
     <div class="teaching-content">
       <ul>
-        <li><strong>Course Coordinator:</strong> <em>Deep Learning, Machine learning and 3D CIRCULARircular</em></li>
+        <li><strong>Course Coordinator:</strong> <em>Deep Learning, Machine learning and 3D CIRCULAR</em></li>
       </ul>
     </div>
   </div>
