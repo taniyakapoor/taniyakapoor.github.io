@@ -11,13 +11,12 @@ author_profile: true
   
 ## Fellowship, Scholarships & Grant
 
-- 2026: Visiting Grant, Digital Futures Early Career Grant, KTH Royal Institute of Technology, Sweden (90K SEK)
-- 2026: Visiting Grant, Danish Data Science Academy, University of Copenhagen, Denmark (15K DKK)
-- 2026: OWLG Travel Grant, Mathematisches Forschungsinstitut Oberwolfach, Germany (200 EURO)
-- 2025: Top Reviewer, NeurIPS (1000 EUR)
-- 2025–2027: Schmidt AI in Science Postdoctoral Fellowship, University of Oxford, England (225K GBP)
-- 2023: Travel Grant for attending CWI Autumn School, Amsterdam, The Netherlands (200 EURO)
-- 2021: CEMPI LABEX Fellowship for pursuing master's (Fully-funded), France (10,000 EUR)
+- 2026: Visiting Grant, Digital Futures Early Career Grant, KTH Royal Institute of Technology, Sweden 
+- 2026: Visiting Grant, Danish Data Science Academy, University of Copenhagen, Denmark 
+- 2026: OWLG Travel Grant, Mathematisches Forschungsinstitut Oberwolfach, Germany
+- 2025–2027: Schmidt AI in Science Postdoctoral Fellowship, University of Oxford, England 
+- 2023: Travel Grant for attending CWI Autumn School, Amsterdam, The Netherlands 
+- 2021: CEMPI LABEX Fellowship for pursuing master's (Fully-funded), France 
 - 2018: SAARC Nation Scholarship for pursuing master's (Fully-funded), India
 - 2017: SAARC Nation Scholarship for pursuing master's (Fully-funded), India
 
