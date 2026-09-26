@@ -25,7 +25,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Erik Lien Bolager, Iryna Burak, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Fast Training of Accurate Physics-Informed Neural Networks without Gradient Descent. *International Conference on Learning Representations (ICLR)* (2026, Oral)
+1. Chinmay Datar, **Taniya Kapoor**, Abhishek Chandra, Qing Sun, Erik Lien Bolager, Iryna Burak, Anna Veselovska, Massimo Fornasier, Felix Dietrich. Fast Training of Accurate Physics-Informed Neural Networks without Gradient Descent. *International Conference on Learning Representations (ICLR Oral)* (2026)
 2. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Daniel M. Tartakovsky, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Neural Oscillators for Generalization of Physics-Informed Machine Learning. *38th AAAI Conference on Artificial Intelligence* (2024)
 3. **Taniya Kapoor**, Hongrui Wang, Alfredo Núñez, Rolf Dollevoet. Predicting Traction Return Current in Electric Railway Systems through Physics-Informed Neural Networks. *IEEE Symposium Series on Computational Intelligence* (2022)
 
