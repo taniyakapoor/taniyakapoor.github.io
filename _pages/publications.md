@@ -13,8 +13,8 @@ author_profile: true
 6. **Taniya Kapoor**<sup>\*</sup>, Abhishek Chandra<sup>\*</sup>, Anastasios Stamou, Stephen J. Roberts. Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers (2025)
 
 
-## Journal Papers\
-1. Yingjie Shao, Ioannis N. Athanasiadis, George van Voorn, **Taniya Kapoor**. [Curvature-Aware Dynamic Precision Approach for Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0925231226020965) **Neurocomputing** (2026)\
+## Journal Papers
+1. Yingjie Shao, Ioannis N. Athanasiadis, George van Voorn, **Taniya Kapoor**. [Curvature-Aware Dynamic Precision Approach for Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0925231226020965) **Neurocomputing** (2026)
 2. Anastasios Stamou, **Taniya Kapoor**, M. Fragiadakis. [A Unified Enhanced Separable PINN Framework for Forward and Inverse Dynamic Analysis of Beams and Plates](https://www.sciencedirect.com/science/article/pii/S0952197626015691) \*Engineering Applications of Artificial Intelligence\* (2026)\
 3. Abhishek Chandra<sup>\*</sup>, **Taniya Kapoor<sup>\*</sup>**, Bram Daniels, Mitrofan Curti, Koen Tiels, Daniel M. Tartakovsky, Elena A. Lomonova. [Generalizable models of magnetic hysteresis via physics-aware recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S0010465525001523) *Computer Physics Communications* (2025)
 3. **Taniya Kapoor**, Hongrui Wang, Anastasios Stamou, Kareem El Sayed, Alfredo Núñez, Daniel M. Tartakovsky, Rolf Dollevoet. [Neural differential equation-based two-stage approach for generalization of beam dynamics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10799209) *IEEE Transactions on Industrial Informatics* (2024)
