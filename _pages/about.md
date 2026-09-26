@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [**Artificial Intelligence Group at WUR**](https://www.wur.nl/en/chair-groups/artificial-intelligence-group/people) and a member of [**ELLIS**](https://ellis.eu/person/taniya-kapoor) and [**4TU+.AMI**](https://www.4tu.nl/ami/Research/sri-bridgingNAML/). My research focuses on two critical challenges in AI for science: Limited data and computational cost.My expertise is in [**physics-informed machine learning**](https://scholar.google.com/citations?user=aa6HC8MAAAAJ&hl=en), with a focus on developing generalizable, data-efficient, and computationally efficient methods for sustainable engineering. 
+I am an Assistant Professor in the [**Artificial Intelligence Group at WUR**](https://www.wur.nl/en/chair-groups/artificial-intelligence-group/people) and a member of [**ELLIS**](https://ellis.eu/person/taniya-kapoor) and [**4TU+.AMI**](https://www.4tu.nl/ami/Research/sri-bridgingNAML/). My research focuses on two critical challenges in AI for science: Limited data and computational cost.
+
+My expertise is in [**physics-informed machine learning**](https://scholar.google.com/citations?user=aa6HC8MAAAAJ&hl=en), with a focus on developing generalizable, data-efficient, and computationally efficient methods for sustainable engineering. 
 
 ### Academic Journey
 
