@@ -17,7 +17,7 @@ author_profile: true
   </div>
 
   <div class="teaching-row">
-    <div class="teaching-label">PhD Supervision</div>
+    <div class="teaching-label">PhD Co-Supervision</div>
     <div class="teaching-content">
       <ul>
         <li>
