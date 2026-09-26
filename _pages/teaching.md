@@ -17,7 +17,7 @@ author_profile: true
   </div>
 
   <div class="teaching-row">
-    <div class="teaching-label">PhD (Daily Supervisor)</div>
+    <div class="teaching-label">PhD (Daily Supervision)</div>
     <div class="teaching-content">
       <ul>
         <li>
