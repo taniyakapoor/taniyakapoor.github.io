@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true 
----
+
 ## Education
 
 <section class="teaching-page">
