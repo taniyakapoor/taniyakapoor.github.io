@@ -13,5 +13,9 @@ Before this, I was awarded the [**AI Schmidt Postdoctoral Fellowship at the Univ
 
 Furthermore, I was awarded the CEMPI Labex Fellowship to pursue my master’s degree in high performance scientific computing at the [**Université de Lille**](https://hpc.univ-lille.fr/en/), France. During my master’s internship, I spent eight months at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html) working with Prof. Siddhartha Mishra on physics-informed neural networks for fully nonlinear partial differential equations. 
 
+### Academic Journey
+
+🇮🇳 **Delhi** → 🇫🇷 **Lille** → 🇨🇭 **Zürich** → 🇳🇱 **Delft** → 🇬🇧 **Oxford** → 🇳🇱 **Wageningen**
+
 
 
