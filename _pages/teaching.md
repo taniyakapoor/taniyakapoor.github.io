@@ -66,9 +66,9 @@ author_profile: true
     <div class="teaching-label">UTQ</div>
     <div class="teaching-content">
       <ul>
-        <li>Teaching</li>
-        <li>Supervising</li>
-        <li>Designing</li>
+        <li>Teach</li>
+        <li>Supervise</li>
+        <li>Design</li>
       </ul>
     </div>
   </div>
