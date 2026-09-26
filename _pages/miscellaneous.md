@@ -20,10 +20,20 @@ author_profile: true
 
 ## Invited talks
  
- - 2024: Knowledge guided machine learning bridge program AAAI, Vancouver, Canada on "Neural ODEs for generalization of machine learning" (lightining talk).
- - 2024: Eindhoven Artificial Intelligence systems Institute, Eindhoven, The Netherlands on "Tackling generalization issues in scientific machine learning".
- - 2024: CRUNCH Seminar Brown University on "[Neural oscillators for generalization of physics-informed machine learning](https://www.youtube.com/watch?v=zJExHI-MYvE&t=1367s)".
- - 2023: Railway Colloquium, TU Delft, The Netherlands on "Predicting traction return current in electric railway systems through physics-informed neural networks".
+- 2026: Digital Futures, Stockholm, Sweden on "[Rethinking SciML: From accuracy to sustainability](https://www.youtube.com/watch?v=buIeR1mEG4M&t=679s)"
+- 2026: University of Copenhagen, Copenhagen, Denmark on "Balancing accuracy and environmental impact of neural PDEs solver"
+- 2026: Scientific computing seminar, CWI, Amsterdam, The Netherlands on "Smart AI, not just accurate AI: Towards sustainable scientific machine learning"
+- 2026: AIM (AI and Math), University of Groningen, The Netherlands on "Less data, less compute, more physics: Sustainable scientific machine learning"
+- 2026: IIT Delhi–JHU Seminar Series on "[Smart AI, not just accurate AI: Towards sustainable scientific machine learning](https://www.youtube.com/watch?v=6B96mes-XqE&t=2594s)"
+- 2026: Agency for science, technology and research (A*STAR), Singapore on "Next-generation AI for science"
+- 2026: Biometris, WUR on "Neural Oscillators for generalisation of PDEs"
+- 2026: AI for science and engineering, WUR on "Physics informed machine for complex systems"
+- 2025: Schmidt AI in science workshop, University of Toronto, Toronto, Canada on "Need of foundation models in engineering"
+- 2024: Knowledge guided machine learning bridge program AAAI, Vancouver, Canada on "Neural ODEs for generalization of machine learning" (lightining talk)
+- 2024: Eindhoven Artificial Intelligence systems Institute, Eindhoven, The Netherlands on "Tackling generalization issues in scientific machine learning"
+- 2024: CRUNCH Seminar Brown University on "[Neural oscillators for generalization of physics-informed machine learning](https://www.youtube.com/watch?v=zJExHI-MYvE&t=1367s)"
+- 2022: Rail Seminar, Section of Railway Engineering, TU Delft, CITG, Delft, The Netherlands on "Physics-informed learning for traction return current"
+
 
 ## Contributed talks
  - 2024: Workshop on Computational and Mathematical Methods in Data Science, TU Delft, "Enhancing Generalization in Physics-Informed Machine Learning with Neural Oscillators ".
