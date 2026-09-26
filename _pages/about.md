@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [**Artificial Intelligence Group at WUR**](https://www.wur.nl/en/chair-groups/artificial-intelligence-group/people) and a member of [**ELLIS**](https://ellis.eu/person/taniya-kapoor), [**4TU+.AMI**](https://www.4tu.nl/ami/Research/sri-bridgingNAML/). My research focuses on two critical challenges in AI for science: Limited data and computational cost. I believe we need to leverage the physical knowledge that we have over the years to reduce data dependency. To reduce computational cost, we need to utilize physics, pre-trained models and focus on fine-tuning tasks.  
 
-Before this, I was awarded the [**AI Schmidt Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows), focusing on engineering-informed foundation models for sustainable structural design. Earlier, I did my PhD and Postdoc at [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures) with Dr. Hongrui Wang, Dr. Alfredo Núñez, and Prof. Rolf Dollevoet, focusing on the generalization in physics-informed machine learning. 
+I am an Assistant Professor in the [**Artificial Intelligence Group at Wageningen University & Research (WUR)**](https://www.wur.nl/en/chair-groups/artificial-intelligence-group/people) and a member of [**ELLIS**](https://ellis.eu/person/taniya-kapoor) and [**4TU+.AMI**](https://www.4tu.nl/ami/Research/sri-bridgingNAML/).
 
-Furthermore, I was awarded the CEMPI Labex Fellowship to pursue my master’s degree in high performance scientific computing at the [**Université de Lille**](https://hpc.univ-lille.fr/en/), France. During my master’s internship, I spent eight months at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html) working with Prof. Siddhartha Mishra on physics-informed neural networks for fully nonlinear partial differential equations. 
+My research focuses on two critical challenges in AI for science: Limited data and computational cost. My expertise is in **physics-informed machine learning**, with a focus on developing generalizable, data-efficient, and computationally efficient methods for sustainable engineering. 
+
+Previously, I was awarded the [**Schmidt AI in Science Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows). I completed my PhD and postdoctoral research at [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), and my master's in high-performance scientific computing at [**Université de Lille**](https://hpc.univ-lille.fr/en/), including a research internship at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html).
 
 ### Academic Journey
 
 🇮🇳 **Delhi** → 🇫🇷 **Lille** → 🇨🇭 **Zürich** → 🇳🇱 **Delft** → 🇬🇧 **Oxford** → 🇳🇱 **Wageningen**
+
 
 
 
