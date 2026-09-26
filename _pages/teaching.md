@@ -42,7 +42,7 @@ author_profile: true
   </div>
 
 <div class="teaching-row">
-  <div class="teaching-label">MSc Co-Supervision</div>
+  <div class="teaching-label">MSc Supervision</div>
   <div class="teaching-content">
     <ul>
       <li>
