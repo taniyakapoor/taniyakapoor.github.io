@@ -53,7 +53,7 @@ author_profile: true
     <div class="teaching-label">MSc Supervision</div>
     <div class="teaching-content">
       <ul>
-        <li>Co-supervising five MSc thesis students on challenge-driven AI</li>
+        <li>Co-supervising MSc thesis students on challenge-driven AI</li>
         <li>Applications in greenhouse systems, meteorology, and food science</li>
       </ul>
     </div>
