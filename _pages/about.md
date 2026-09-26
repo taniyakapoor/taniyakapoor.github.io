@@ -16,7 +16,7 @@ My expertise is in [**physics-informed machine learning**](https://scholar.googl
 
 🇮🇳 **Delhi** → 🇫🇷 **Lille** → 🇨🇭 **Zürich** → 🇳🇱 **Delft** → 🇬🇧 **Oxford** → 🇳🇱 **Wageningen**
 
-Previously, I was awarded the [**Schmidt AI in Science Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows). I received my PhD from [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), following master’s degrees in high-performance scientific computing from [**Université de Lille**](https://hpc.univ-lille.fr/en/) and mathematics from [**South Asian University**](https://sau.int/department-of-mathematics/). I also completed a research internship at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html). I obtained my bachelor’s degree in mathematics from the [**University of Delhi**](https://maths.du.ac.in/).
+Before this, I was awarded the [**Schmidt AI in Science Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows). I received my PhD from [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), following master’s degrees in high-performance scientific computing from [**Université de Lille**](https://hpc.univ-lille.fr/en/) and mathematics from [**South Asian University**](https://sau.int/department-of-mathematics/). I also completed a research internship at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html). I obtained my bachelor’s degree in mathematics from the [**University of Delhi**](https://maths.du.ac.in/).
 
 
 
