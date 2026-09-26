@@ -8,106 +8,115 @@ author_profile: true
 
 <section class="teaching-section">
 
-  <div class="teaching-card wur-card">
-    <div class="teaching-header">
-      <h2>Wageningen University & Research</h2>
-      <span class="teaching-badge">Current</span>
-    </div>
+<h2>Wageningen University & Research</h2>
 
-    <p class="teaching-intro">
-      At Wageningen University & Research (WUR), I am actively involved in teaching,
-      course coordination, student supervision, and curriculum development in
-      artificial intelligence, machine learning, deep learning, and data science.
-    </p>
+<p class="teaching-summary">
+Teaching, supervision, and curriculum development in machine learning,
+deep learning, scientific machine learning, and AI for science.
+</p>
 
-    <div class="teaching-block">
-      <h3>Course Coordination and Teaching</h3>
-      <p>
-        I serve as course coordinator for <em>Deep Learning</em> and contribute as a
-        lecturer to both <em>Machine Learning</em> and <em>Deep Learning</em>.
-        My teaching combines fundamental machine learning concepts with modern AI
-        methods and their applications to scientific and interdisciplinary problems.
-      </p>
-    </div>
+<div class="teaching-grid">
 
-    <div class="teaching-block">
-      <h3>PhD and MSc Supervision</h3>
+  <div class="teaching-item">
+    <h3>Teaching</h3>
+    <p><strong>Course Coordinator</strong><br>
+    <em>Deep Learning</em></p>
 
-      <div class="student-card">
-        <a href="https://research.wur.nl/en/persons/eva-van-tegelen/" target="_blank">
-          Eva van Tegelen
-        </a>
-        <p>
-          Model-based machine learning for identifying and quantifying resilience
-          and tipping points in complex systems, including neural differential
-          equation and operator-based approaches.
-        </p>
-      </div>
-
-      <div class="student-card">
-        <a href="https://research.wur.nl/en/persons/thijs-van-weezel/" target="_blank">
-          Thijs van Weezel
-        </a>
-        <p>
-          Foundation models for agricultural sciences, with a focus on generalizable
-          AI methods for scientific and agricultural applications.
-        </p>
-      </div>
-
-      <p>
-        I also co-supervise five master’s thesis students developing
-        challenge-driven AI models in collaboration with research groups in
-        greenhouse systems, meteorology, and food science.
-      </p>
-    </div>
-
-    <div class="teaching-block">
-      <h3>Student Projects and Curriculum Development</h3>
-      <p>
-        I have supervised student projects for <em>Data Science for Global Challenges</em>
-        and developed teaching material for <em>Introduction to AI for 3D Circularity</em>.
-        These activities reflect my interest in connecting AI methodology with
-        real-world scientific and societal challenges.
-      </p>
-    </div>
-
-    <div class="teaching-block">
-      <h3>University Teaching Qualification (UTQ)</h3>
-
-      <p>
-        I am currently completing the University Teaching Qualification (UTQ)
-        programme at WUR and have obtained three partial certificates:
-      </p>
-
-      <div class="utq-badges">
-        <span>Teaching</span>
-        <span>Supervising</span>
-        <span>Designing</span>
-      </div>
-    </div>
+    <p><strong>Lecturer</strong><br>
+    <em>Machine Learning</em><br>
+    <em>Deep Learning</em></p>
   </div>
 
-
-  <div class="teaching-card tud-card">
-    <div class="teaching-header">
-      <h2>Delft University of Technology</h2>
-      <span class="teaching-badge past">Previous</span>
-    </div>
+  <div class="teaching-item">
+    <h3>PhD Supervision</h3>
 
     <p>
-      Previously at TU Delft, my teaching activities focused on integrating
-      artificial intelligence and physics-informed machine learning into engineering
-      education. I prepared tutorials and examinations for <em>A1</em>,
-      <em>MUDE</em>, <em>Dynamica</em>, and <em>Data Science and AI for Engineers</em>,
-      and served as an examiner for <em>Data Science and AI for Engineers</em>.
+      <strong><a href="https://research.wur.nl/en/persons/eva-van-tegelen/">
+      Eva van Tegelen</a></strong><br>
+      Scientific machine learning for resilience and tipping points in complex systems
     </p>
 
     <p>
-      I also developed and supervised the master’s course project
-      <em>Physics-Informed Neural Networks for Simulating the Dynamics of Beam Systems</em>,
-      supervising nine students, and co-supervised a master’s thesis on
-      <em>Neural Networks Infused with Physics for Beam Systems</em>.
+      <strong><a href="https://research.wur.nl/en/persons/thijs-van-weezel/">
+      Thijs van Weezel</a></strong><br>
+      Foundation models for agricultural sciences
     </p>
   </div>
+
+  <div class="teaching-item">
+    <h3>MSc Supervision</h3>
+    <p>
+      Co-supervising <strong>five MSc thesis students</strong> on
+      challenge-driven AI in:
+    </p>
+
+    <ul>
+      <li>Greenhouse systems</li>
+      <li>Meteorology</li>
+      <li>Food science</li>
+    </ul>
+  </div>
+
+  <div class="teaching-item">
+    <h3>Course Development</h3>
+
+    <p>
+      Student supervision for <em>Data Science for Global Challenges</em>
+    </p>
+
+    <p>
+      Teaching material development for
+      <em>Introduction to AI for 3D Circularity</em>
+    </p>
+  </div>
+
+</div>
+
+
+<h3 class="section-heading">University Teaching Qualification (UTQ)</h3>
+
+<p>
+I am completing the University Teaching Qualification programme at WUR
+and have obtained three partial certificates:
+</p>
+
+<div class="utq-list">
+  <span>Teaching</span>
+  <span>Supervising</span>
+  <span>Designing</span>
+</div>
+
+
+<hr class="teaching-divider">
+
+
+<h2>Delft University of Technology</h2>
+
+<p class="teaching-summary">
+Teaching and supervision in engineering, data science, and
+physics-informed machine learning.
+</p>
+
+<ul class="compact-list">
+  <li>
+    Prepared tutorials and examinations for <em>A1</em>, <em>MUDE</em>,
+    <em>Dynamica</em>, and <em>Data Science and AI for Engineers</em>
+  </li>
+
+  <li>
+    Examiner for <em>Data Science and AI for Engineers</em>
+  </li>
+
+  <li>
+    Developed and supervised the MSc project
+    <em>Physics-Informed Neural Networks for Simulating the Dynamics of Beam Systems</em>
+    for nine students
+  </li>
+
+  <li>
+    Co-supervised the MSc thesis
+    <em>Neural Networks Infused with Physics for Beam Systems</em>
+  </li>
+</ul>
 
 </section>
