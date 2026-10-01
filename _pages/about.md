@@ -20,7 +20,7 @@ Prior to joining as an assistant professor at WUR, I was awarded the [**Schmidt 
 
 1. Our workshop on [**Physics-Governed AI**](https://pgai4e.github.io) for Energy was accepted at AAAI 2027!
 2. Our paper on Towards ecologically meaningful [**foundation models**](https://ecoevorxiv.org/repository/view/12013/) got accepted at Nature Machine Intelligence!
-3. I will give a keynote talk at DUCOMS on [**Towards Sustainable AI across Science**](https://www.computationalsciencenl.nl/en/ducoms-day-2026/) in November 2026.
+3. I will give a keynote at DUCOMS on [**Towards Sustainable AI across Science**](https://www.computationalsciencenl.nl/en/ducoms-day-2026/) in November 2026.
 4. I will be attending the Mathematics of Physics-Oriented Machine Learning workshop at the Mathematisches Forschungsinstitut Oberwolfach [**(MFO)**](https://www.mfo.de) in November 2026.
 5. I’ll be presenting on "Towards Sustainable AI for Engineering" at the [**European Commission’s Joint Research Centre (JRC)**](https://commission.europa.eu/about/departments-and-executive-agencies/joint-research-centre_en) on 6 November.
 6. I am co-organising [**Parsimonious Scientific machine learning**](https://sites.google.com/view/parsciml-fss26/call-for-participation) at the AAAI Symposium, November 2026.
