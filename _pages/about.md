@@ -21,7 +21,7 @@ Prior to joining as an assistant professor at WUR, I was awarded the [**Schmidt 
 2. Our paper on [**Towards ecologically meaningful foundation models**](https://ecoevorxiv.org/repository/view/12013/) got accepted at Nature Machine Intelligence!
 3. I will give a keynote talk at DUCOMS on [**Towards Sustainable AI across Science**](https://www.computationalsciencenl.nl/en/ducoms-day-2026/) in November 2026.
 4. I will be attending the Mathematics of Physics-Oriented Machine Learning workshop at the Mathematisches Forschungsinstitut Oberwolfach [**(MFO)**](https://www.mfo.de) in November 2026.
-5. I’ll be presenting on **Towards Sustainable AI for Engineering** at the European Commission’s Joint Research Centre (JRC) on 6 November.
+5. I’ll be presenting on "Towards Sustainable AI for Engineering" at the European Commission’s Joint Research Centre (JRC) on 6 November.
 
 
 
