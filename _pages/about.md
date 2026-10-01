@@ -16,7 +16,7 @@ Prior to joining as an assistant professor at WUR, I was awarded the [**Schmidt 
 
 🇮🇳 **Delhi** → 🇫🇷 **Lille** → 🇨🇭 **Zürich** → 🇳🇱 **Delft** → 🇬🇧 **Oxford** → 🇳🇱 **Wageningen**
 
-**NEWS!**
+**News**
 
 1. Our workshop on [**Physics-Governed AI**](https://pgai4e.github.io) for Energy was accepted at AAAI 2027!
 2. Our paper on Towards ecologically meaningful [**foundation models**](https://ecoevorxiv.org/repository/view/12013/) got accepted at Nature Machine Intelligence!
