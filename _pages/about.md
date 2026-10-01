@@ -15,7 +15,7 @@ My expertise is in [**Scientic machine learning and physics-informed machine lea
 
 Prior to joining as an assistant professor at WUR, I was awarded the [**Schmidt AI in Science Postdoctoral Fellowship at the University of Oxford**](https://www.ox.ac.uk/news/2025-05-02-oxford-welcomes-new-schmidt-ai-science-fellows). I received my PhD from [**TU Delft**](https://www.tudelft.nl/citg/over-faculteit/afdelingen/engineering-structures), following master’s degrees in high-performance scientific computing from [**Université de Lille**](https://hpc.univ-lille.fr/en/) and mathematics from [**South Asian University**](https://sau.int/department-of-mathematics/). I also completed a research internship at [**ETH Zürich (CAMLab)**](https://camlab.ethz.ch/the-group/group-head.html). I obtained my bachelor’s degree in mathematics from the [**University of Delhi**](https://maths.du.ac.in/).
 
-**NEWS**
+**NEWS!**
 
 1. Our workshop on [**Physics-Governed AI**](https://pgai4e.github.io) for Energy was accepted at AAAI 2027!
 2. Our paper on [**Towards ecologically meaningful foundation models**](https://ecoevorxiv.org/repository/view/12013/) got accepted at Nature Machine Intelligence!
