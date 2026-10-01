@@ -26,7 +26,7 @@ Prior to joining as an assistant professor at WUR, I was awarded the [**Schmidt 
 6. I am co-organising [**Parsimonious Scientific machine learning**](https://sites.google.com/view/parsciml-fss26/call-for-participation) at the AAAI Symposium, November 2026.
 7. Our paper on understanding [**Plant protein using physics informed learning**](https://www.sciencedirect.com/science/article/pii/S2666833526003072?via%3Dihub#abs0001) got accepted at Future foods!
 8. I was awarded the [**Early Career Award from Digital Futures, KTH**](https://www.digitalfutures.kth.se/mobility-projects/taniya-kapoor/) for developing physics-informed machine learning methods for plant-based food applications.
-9. Our paper is accepted and selected for [**Oral presentation at ICLR 2026**](https://iclr.cc/virtual/2026/oral/10011638).
+9. Our paper on Fast training of accurate physics-informed neural networks is selected for [**Oral presentation at ICLR 2026**](https://iclr.cc/virtual/2026/oral/10011638).
 10. Our paper on reducing computational cost through precision-induced learning in [**physics-informed machine learning**](https://www.sciencedirect.com/science/article/pii/S0925231226020965) has been accepted for publication in Neurocomputing!
 
 
