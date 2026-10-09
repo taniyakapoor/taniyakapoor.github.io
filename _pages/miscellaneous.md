@@ -23,6 +23,7 @@ author_profile: true
 ## Invited talks
  
 - 2026: Digital Futures, Stockholm, Sweden on "[Rethinking SciML: From accuracy to sustainability](https://www.youtube.com/watch?v=buIeR1mEG4M&t=679s)"
+- 2026: Invited talk on “Knowledge-Guided Strategies for complex systems” at the Fourier Winter School, National Technical University of Athens.
 - 2026: University of Copenhagen, Copenhagen, Denmark on "Balancing accuracy and environmental impact of neural PDEs solver"
 - 2026: Invited talk on “Towards Sustainable Knowledge-Informed AI” at WUR MIND Day.
 - 2026: Scientific computing seminar, CWI, Amsterdam, The Netherlands on "Smart AI, not just accurate AI: Towards sustainable scientific machine learning"
