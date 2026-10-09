@@ -24,6 +24,7 @@ author_profile: true
  
 - 2026: Digital Futures, Stockholm, Sweden on "[Rethinking SciML: From accuracy to sustainability](https://www.youtube.com/watch?v=buIeR1mEG4M&t=679s)"
 - 2026: University of Copenhagen, Copenhagen, Denmark on "Balancing accuracy and environmental impact of neural PDEs solver"
+- 2026: Invited talk on “Towards Sustainable Knowledge-Informed AI” at WUR MIND Day.
 - 2026: Scientific computing seminar, CWI, Amsterdam, The Netherlands on "Smart AI, not just accurate AI: Towards sustainable scientific machine learning"
 - 2026: AIM (AI and Math), University of Groningen, The Netherlands on "Less data, less compute, more physics: Sustainable scientific machine learning"
 - 2026: IIT Delhi–JHU Seminar Series on "[Smart AI, not just accurate AI: Towards sustainable scientific machine learning](https://www.youtube.com/watch?v=6B96mes-XqE&t=2594s)"
